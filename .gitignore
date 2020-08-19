@@ -1,0 +1,7 @@
+# Dir and Files to Ignore
+__pycache__/
+*.pyc
+*.sqlite3
+.idea/
+.vscode/
+.pytest_cache/
